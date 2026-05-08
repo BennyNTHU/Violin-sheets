@@ -53,6 +53,7 @@
 | 運命の華 | トゲナシトゲアリ | Girls Band Cry | [運命の華.mscz](./Girls%20Band%20Cry/%E9%81%8B%E5%91%BD%E3%81%AE%E8%8F%AF/%E9%81%8B%E5%91%BD%E3%81%AE%E8%8F%AF.mscz) | [運命の華.pdf](./Girls%20Band%20Cry/%E9%81%8B%E5%91%BD%E3%81%AE%E8%8F%AF/%E9%81%8B%E5%91%BD%E3%81%AE%E8%8F%AF.pdf) |
 | 視界の隅_朽ちる音 | トゲナシトゲアリ | Girls Band Cry | [視界の隅_朽ちる音.mscz](./Girls%20Band%20Cry/%E8%A6%96%E7%95%8C%E3%81%AE%E9%9A%85_%E6%9C%BD%E3%81%A1%E3%82%8B%E9%9F%B3/%E8%A6%96%E7%95%8C%E3%81%AE%E9%9A%85_%E6%9C%BD%E3%81%A1%E3%82%8B%E9%9F%B3.mscz) | [視界の隅_朽ちる音.pdf](./Girls%20Band%20Cry/%E8%A6%96%E7%95%8C%E3%81%AE%E9%9A%85_%E6%9C%BD%E3%81%A1%E3%82%8B%E9%9F%B3/%E8%A6%96%E7%95%8C%E3%81%AE%E9%9A%85_%E6%9C%BD%E3%81%A1%E3%82%8B%E9%9F%B3.pdf) |
 | 雑踏、僕らの町 | トゲナシトゲアリ | Girls Band Cry | [雑踏、僕らの町.mscz](./Girls%20Band%20Cry/%E9%9B%91%E8%B8%8F%E3%80%81%E5%83%95%E3%82%89%E3%81%AE%E7%94%BA/%E9%9B%91%E8%B8%8F%E3%80%81%E5%83%95%E3%82%89%E3%81%AE%E7%94%BA.mscz) | [雑踏、僕らの町.pdf](./Girls%20Band%20Cry/%E9%9B%91%E8%B8%8F%E3%80%81%E5%83%95%E3%82%89%E3%81%AE%E7%94%BA/%E9%9B%91%E8%B8%8F%E3%80%81%E5%83%95%E3%82%89%E3%81%AE%E7%94%BA.pdf) |
+| ダレモ | トゲナシトゲアリ | Girls Band Cry | [ダレモ.mscz](./Girls%20Band%20Cry/%E3%83%80%E3%83%AC%E3%83%A2/%E3%83%80%E3%83%AC%E3%83%A2.mscz) | [ダレモ.pdf](./Girls%20Band%20Cry/%E3%83%80%E3%83%AC%E3%83%A2/%E3%83%80%E3%83%AC%E3%83%A2.pdf) |
 
 # 櫻坂46
 
